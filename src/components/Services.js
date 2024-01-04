@@ -5,7 +5,6 @@ import img3 from '../images/hosting.svg';
 import img4 from '../images/consultation.svg';
 
 const Services = () => {
-
     return (
         <div id="services" className="bg-gray-100 py-12" >
             <section data-aos="zoom-in-down">

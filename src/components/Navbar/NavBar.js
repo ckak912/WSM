@@ -23,7 +23,7 @@ const NavBar = () => {
             <div className="flex flex-row justify-between items-center py-2">
                 <div className="flex flex-row justify-center md:px-12 md:mx-12 items-center text-center font-semibold">
                     <Link to="/">
-                        <img src={logoImage} alt="Logo" className="h-15 max-h-14 w-auto" />
+                        <img src={logoImage} alt="Logo" className="w-auto" />
                     </Link>
                 </div>
                 <div className="group flex flex-col items-center">

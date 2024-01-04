@@ -6,6 +6,7 @@ import axios from 'axios';
 // import emailjs from 'emailjs-com';
 import Notiflix from 'notiflix';
 
+// TODO: Fix this page to include correct details and NavBar included 
 const Contact = () => {
     useDocTitle('Wynyard Street Motors')
     const [firstName, setFirstName] = useState('')

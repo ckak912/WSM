@@ -9,6 +9,7 @@ const Home = () => {
         <>
             <Hero />
             <Services />
+            {/* TODO: Gallery */}
             <Footer />
         </>
 
